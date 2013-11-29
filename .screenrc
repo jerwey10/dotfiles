@@ -3,7 +3,7 @@
 #
 # Notes
 # -----
-# 1. Modified to work with Emacs: C-t is the action command, not C-a. 
+# 1. Modified to work with Emacs: C-j is the action command, not C-a or C-t (class). 
 # 2. To change the colors of the hardstatus line, change this line: 
 #       sorendition "+b +kG"  
 #    Example: blue (+b) highlight with black text (k) on a green background (G)
